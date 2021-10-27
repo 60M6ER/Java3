@@ -1,9 +1,10 @@
-
 # Default ignored files
+.idea
 *.iws
 *.iml
 *.ipr
-*.log
 /out
 /target
-/log
+log/
+
+*.log
